@@ -1,7 +1,3 @@
-Here's the updated context with the additional details about the images:
-
----
-
 ### **Deep Convolutional Generative Adversarial Network (DCGAN) for Image Generation**
 
 This project implements a **Deep Convolutional Generative Adversarial Network (DCGAN)** to generate high-quality synthetic images from random noise. The DCGAN framework consists of two core components:
