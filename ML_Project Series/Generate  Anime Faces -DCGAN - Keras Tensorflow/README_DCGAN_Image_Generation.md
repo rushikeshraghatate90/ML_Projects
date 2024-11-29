@@ -49,7 +49,8 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
 - Save generated images and trained models after each epoch for evaluation.
 
 - **Epoch 1 Output:** The fourth image (below) shows the generated images after completing the first training epoch. These images demonstrate the early stages of learning by the generator.  
-![Uploading Screenshot 2024-11-29 132102.png…]()
+
+![Screenshot 2024-11-29 132102](https://github.com/user-attachments/assets/bb22f26a-70e1-45ac-9ebb-633fded034c7)
 
 
 Example training command:
