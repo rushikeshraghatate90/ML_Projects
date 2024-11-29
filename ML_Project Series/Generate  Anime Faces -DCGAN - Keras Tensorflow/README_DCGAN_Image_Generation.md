@@ -35,12 +35,13 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
 
 #### **2. Model Components**
 - **Generator:** Takes random noise as input and outputs synthetic images. The second image (below) represents the architecture of the generator model, showcasing how it builds images layer by layer.  
+![Screenshot 2024-11-29 131547](https://github.com/user-attachments/assets/04a9ae25-7da5-4128-a62d-bad475c82490)
 
-  ![Generator Model](https://github.com/user-attachments/assets/32d92a36-1a01-4608-84d6-116cfd125afa)
 
 - **Discriminator:** Evaluates the authenticity of images, determining whether they are real or generated. The third image (below) provides a detailed view of the discriminator model's structure.  
 
-  ![Discriminator Model](https://github.com/user-attachments/assets/32d92a36-1a01-4608-84d6-116cfd125afa)
+ ![Screenshot 2024-11-29 131557](https://github.com/user-attachments/assets/8a08ea54-1cda-47ff-97f2-3b968ff1f4f8)
+
 
 #### **3. Training Process**
 - Utilize the `DCGAN` class to train the model on your dataset.
@@ -48,8 +49,8 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
 - Save generated images and trained models after each epoch for evaluation.
 
 - **Epoch 1 Output:** The fourth image (below) shows the generated images after completing the first training epoch. These images demonstrate the early stages of learning by the generator.  
+![Uploading Screenshot 2024-11-29 132102.png…]()
 
-  ![Epoch 1 Output](https://github.com/user-attachments/assets/32d92a36-1a01-4608-84d6-116cfd125afa)
 
 Example training command:
 ```python
