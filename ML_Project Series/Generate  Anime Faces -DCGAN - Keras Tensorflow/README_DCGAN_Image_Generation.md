@@ -96,4 +96,3 @@ Enjoy creating with DCGAN! 🎨
 
 --- 
 
-This version includes details about the visualizations, linking each image to a specific step in the workflow for added clarity. Let me know if you'd like to refine it further!
