@@ -15,21 +15,20 @@ It includes training a custom classifier on the **CIFAR-10** dataset and perform
 ---
 
 ## 🗂 Project Structure
-
-.
+```
 ├── train_inception_cifar10.py  
 ├── predict_image.py  
 ├── Airplane.jpg  
 ├── README.md  
-
+```
 ---
 
 ## 📦 Requirements
 
 Install the required dependencies:
-
+```
 pip install tensorflow numpy matplotlib opencv-python pillow
-
+```
 ---
 
 ## 📊 Dataset
